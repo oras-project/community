@@ -18,7 +18,7 @@ ORAS owners adhere to the requirements and responsibilities set forth in the res
 
 - To act in the best interest of the project and subprojects
 - To ensure that project and subproject development and direction is a function of community needs
-- To never take any action while hesitant that it is the right action to take
+- To take action when reasonably confident that it is the right action to take
 - To fulfill the responsibilities outlined in this document and its dependents
 
 ### ORAS Org Owners
