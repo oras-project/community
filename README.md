@@ -23,7 +23,7 @@ This project has adopted the [CNCF Code of Conduct](https://github.com/cncf/foun
 
 [oras-land]:              https://oras.land
 [oras-cli]:               https://github.com/oras-project/oras
-[oras-cli-owners]:        https://github.com/oras-project/oras/blob/main/OWNERS
+[oras-cli-owners]:        https://github.com/oras-project/oras/blob/main/OWNERS.md
 [oras-go]:                https://github.com/oras-project/oras-go
 [oras-go-owners]:         https://github.com/oras-project/oras-go/blob/main/OWNERS.md
 [oras-www]:               https://github.com/oras-project/oras-www
