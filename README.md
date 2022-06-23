@@ -5,6 +5,8 @@ Welcome to the ORAS Project community.
 This project covers overall efforts around the ORAS Project, including:
 
 - [ORAS Project Governance](./governance/GOVERNANCE.md)
+- [ORAS Release Process](./governance/RELEASE-PROCESS.md)
+- [Reviewing Guide](./REVIEWING.md)
 
 ## ORAS Projects
 
