@@ -31,8 +31,8 @@ activities being performed.
 
 ## Governance
 
-This ORAS project governance model is described [here](governance).
+This ORAS project governance model is described [here][governance]
 
 [owner]: https://github.com/oras-project/community/blob/main/governance/GOVERNANCE.md#oras-org-owners
 [sub-project-owner]: https://github.com/oras-project/community/blob/main/governance/GOVERNANCE.md#subproject-owners
-[governance]: https://github.com/oras-project/community/blob/main/governance/GOVERNANCE.md
+[governance]: ./GOVERNANCE.md
