@@ -6,17 +6,17 @@ The ORAS community has triaged the GitHub issues and confirmed the timeline and 
 
 | Release | ETA Date |
 | --- | --- |
-| ORAS 0.15.0 | Sep 26, 2022 |
-| ORAS 0.15.1 | Oct 17, 2022|
-| ORAS 0.16.0 | Oct 31, 2022 |
-| ORAS v1.0.0-rc.1 | Nov 28, 2022 |
-| ORAS v1.0.0 | Jan 9, 2023 |
+| ORAS 0.15.0 | Sep 2022 |
+| ORAS 0.15.1 | Oct 2022|
+| ORAS 0.16.0 | Oct 2022 |
+| ORAS v1.0.0-rc.1 | Nov 2022 |
+| ORAS v1.0.0 | Jan 2023 |
 
 | Release | ETA Date |
 | --- | --- |
-| ORAS-go v2.0.0-rc.4 | Oct 24 | 
-| ORAS-go v2.0.0-rc.5 | Nov 14, 2022 |
-| ORAS-go v2.0.0 | Dec 12, 2022 |
+| ORAS-go v2.0.0-rc.4 | Oct 2022 | 
+| ORAS-go v2.0.0-rc.5 | Nov 2022 |
+| ORAS-go v2.0.0 | Dec 2022 |
 
 ## Milestone
 
