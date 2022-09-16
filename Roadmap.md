@@ -4,7 +4,7 @@ The ORAS community has triaged the GitHub issues and confirmed the timeline and 
 
 ## Timeline
 
-| Release | ETA Date |
+| Release | ETA Month |
 | --- | --- |
 | ORAS 0.15.0 | Sep 2022 |
 | ORAS 0.15.1 | Oct 2022|
