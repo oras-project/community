@@ -19,6 +19,10 @@ ORAS has several sub-projects, as outlined in [ORAS.land][oras-land]
 | [oras-www][oras-www] website for [oras.land](https://oras.land) | [OWNERS][oras-www-owners] |
 | [artifacts-spec][artifacts-spec] | [OWNERS][artifacts-spec-owners] |
 
+## Roadmap
+
+The [RoadMap](./ROADMAP.md) lists the planned features and timeline. Everyone is welcome to raise a proposal or submit a feature request.
+
 ## Community
 
 You can reach the maintainers of this project at:
