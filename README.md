@@ -21,7 +21,7 @@ ORAS has several sub-projects, as outlined in [ORAS.land][oras-land]
 
 ## Roadmap
 
-The [RoadMap](./roadmap.md) lists the planned features and timeline. Everyone is welcome to raise a proposal or submit a feature request.
+The [Roadmap](./Roadmap.md) lists the planned features and timeline. Everyone is welcome to raise a proposal or submit a feature request.
 
 ## Community
 
