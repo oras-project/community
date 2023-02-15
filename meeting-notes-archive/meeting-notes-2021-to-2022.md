@@ -1,5 +1,4 @@
-
-# An archive of ORAS Community Meeting Notes from 2021 to 2022 
+# An archive of the ORAS Community Meeting Notes from 2021 to 2022 
 
 This document is an archive of notes captured at https://hackmd.io/P-O6n222TcSMoJgHmTTduw?view.
 
