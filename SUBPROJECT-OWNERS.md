@@ -1,0 +1,8 @@
+- Avi Deitcher (@deitch)
+- Feynman Zhou (@FeynmanZhou)
+- Josh Dolitsky (@jdolitsky)
+- Sajay Antony (@sajayantony)
+- Shiwei Zhang (@shizhMSFT)
+- Steve Lasker (@stevelasker)
+- Sylvia Lei (@Wwwsylvia)
+- Vanessasaurus (@vsoch)
