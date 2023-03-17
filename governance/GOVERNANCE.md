@@ -76,6 +76,51 @@ New ORAS owners participate in an onboarding period during which they fulfill al
 
 The onboarding period is intended to ensure that the to-be-appointed owner is able/willing to take on the time requirements, familiar with ORAS core logic and concepts, understands the overall system architecture and interactions that comprise it, and is able to work well with both the existing owners and the community.
 
+## Working Groups
+
+Working Groups are primarily used to facilitate topics of discussion that are in scope for ORAS but that cross multiple sub-projects and teams. It provides a formal avenue for disparate teams or groups to collaborate around a common problem, craft a balanced position, and disband.
+
+The Working Group does not own any code. To create a Working Group in the ORAS community, organizers should have a clear goal measured through a specific deliverable or deliverables. Working Group is temporary in nature and will be eventually disbanded after reaching its stated goal(s). 
+
+### Purpose of establishing ORAS Working Group
+
+Establishing an ORAS Working Groups enables the ORAS community to experiment, validate, and define new capabilities of specifications. Each Working Group shall have a defined scope of the ORAS Working Group's intended activities and goals. The end result of the Working Group's work product shall be either:
+
+- an update to an existing specification (for example, adding support for a new set of features);
+- a new specification (for example, creating an specification for a new topical area); or
+- a new ORAS sub-project other than a specification (for example, creating a reference implementation of an specification).
+
+Any participant in the ORAS community may propose a Working Group to the maintainers. Participants can become maintainers of the Working Group. The maintainers shall maintain a public list of the information required to be included in a Working Group proposal.
+
+### Required information for ORAS Working Group Proposal
+
+An ORAS Working Group proposal should contain the following information:
+
+- a clearly defined objective and scope of what the Working Groups aims to accomplish
+- a list of owners who have agreed to participate in the Working Group, review progress, report - progress back to the ORAS community, and present the results to the maintainers once the Working Group has completed its objectives
+- a list of ORAS projects, non-ORAS projects, or organizations sponsoring the Working Group and participating in the implementation and use case validation of the work done by the group
+- a set of project rules which govern how contributions to the Working Group will be handled and decisions will be made
+- a working agreement for making progress, which may include weekly meetings, dedicated channels for discussions, or a shared repository
+- a request for ORAS resources, which may include recurring meetings in the ORAS calendar, ORAS hosted repository, or topic specific communication channels
+- a name of the Working Group
+
+> Note: It is recommended that the Working Group is clearly differentiated from the sub-projects by using "Working Group" in the name and `wg-` prefix for the designated repository if such is required.
+Proposal for a Working Group should be submitted as a GitHub issue with all the information above.
+
+### Requirements for maintainers approval of the Working Group
+
+ORAS maintainers should review the proposal for a Working Group and vote for its creation. Working Groups can be approved with a super-majority of the maintainer votes. Once the approval is complete, maintainers will provide the requested resources to the Working Group participants.
+
+### Required information for maintainers approval of the Working Group outcome
+
+When a Working Group determines that it has completed its initial work and is prepared to request maintainers approval for the outputs as a specification or a sub-project for ORAS, the Working Group owners will present to following content to the ORAS maintainers:
+
+- the recommended next steps, draft specification, or project content
+- the validation work which demonstrates real world usability
+- the set of maintainers who have agreed to carry the work forward
+
+There is no requirement that owners or contributors to the ORAS Working Group will continue to be maintainers for an approved specification or other ORAS sub-project after maintainers approval and release. However, the maintainers will consider it a requirement that any approved specification or other ORAS sub-project has a dedicated and active group of maintainers to continue the work.
+
 ## Decision Making at the ORAS org level
 
 When owners need to make decisions there are two ways decisions are made, unless described elsewhere.
@@ -101,6 +146,7 @@ This ORAS project has adopted the [CNCF Code of Conduct](https://github.com/cncf
 ## Attributions
 
 * This governance model we created using both the [SPIFFE](https://github.com/spiffe/spire/blob/main/MAINTAINERS.md) and [Helm](https://github.com/helm/community/blob/main/governance/governance.md) governance documents.
+* The Working Group model we created above references the practice from [OCI Working Groups](https://github.com/opencontainers/tob/blob/main/WG-INFO.md) and [Kubernetes Working Group Formation and Disbandment](https://github.com/kubernetes/community/blob/master/committee-steering/governance/wg-governance.md).
 
 ## DCO and Licenses
 
