@@ -64,4 +64,3 @@ The sub-project is defined in [GOVERNANCE.md](./GOVERNANCE.md). The sub-project 
 ## Attributions
 
 The Working Group model we created above references the practice from [OCI Working Groups](https://github.com/opencontainers/tob/blob/main/WG-INFO.md), [Knative working group processes and guidelines](https://github.com/knative/community/blob/main/mechanics/WORKING-GROUP-PROCESSES.md) and [Kubernetes Working Group Formation and Disbandment](https://github.com/kubernetes/community/blob/master/committee-steering/governance/wg-governance.md).
-,m 
