@@ -53,6 +53,14 @@ There is no requirement that owners or contributors to the ORAS Working Group wi
 
 Some Working Groups are ephemeral or naturally reach the end of their useful life. Working Group owners can choose dissolve their Working Groups by submitting an issue in the ORAS community repository. The ORAS [Owners](../OWNERS.md) takes ownership to handle their request and ORAS Owners also reserves the right to dissolve or recharter working groups over time as necessary, though they will strive to first discuss this in committee meetings and open community discussion.
 
+## FAQ
+
+### Differences between Sub-project and the Working Group
+
+Working groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived or temporary.
+
+The sub-project is defined in [GOVERNANCE.md](./GOVERNANCE.md). The sub-project is a GitHub repository under the ORAS organization, which is intended to solving specific requirements and is more focused on implementation. It could be the outcome of the Working Group. A Working Group's scope may be across multiple sub-projects.
+
 ## Attributions
 
 The Working Group model we created above references the practice from [OCI Working Groups](https://github.com/opencontainers/tob/blob/main/WG-INFO.md), [Knative working group processes and guidelines](https://github.com/knative/community/blob/main/mechanics/WORKING-GROUP-PROCESSES.md) and [Kubernetes Working Group Formation and Disbandment](https://github.com/kubernetes/community/blob/master/committee-steering/governance/wg-governance.md).
