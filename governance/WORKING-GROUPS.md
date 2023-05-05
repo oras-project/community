@@ -1,6 +1,6 @@
 # Working Groups
 
-Working Groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. Working Groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived or temporary.
+Working Groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. Working Groups operate with a fair amount of autonomy within the broader scope of the project.
 
 Working Groups are primarily used to facilitate topics of discussion that are in scope for ORAS but that cross multiple sub-projects and teams. It provides a formal avenue for disparate teams or groups to collaborate around a common problem, craft a balanced position, and disband. 
 
@@ -57,7 +57,7 @@ Some Working Groups are ephemeral or naturally reach the end of their useful lif
 
 ### Differences between Sub-project and the Working Group
 
-Working groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be long-lived or temporary.
+Working groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. Working groups operate with a fair amount of autonomy within the broader scope of the project. They tend to be short-lived.
 
 The sub-project is defined in [GOVERNANCE.md](./GOVERNANCE.md). The sub-project is a GitHub repository under the ORAS organization, which is intended to solving specific requirements and is more focused on implementation. It could be the outcome of the Working Group. A Working Group's scope may be across multiple sub-projects.
 
