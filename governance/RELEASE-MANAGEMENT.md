@@ -40,7 +40,7 @@ The ORAS CLI and ORAS-go project reached a stable version. Other sub-projects in
   - Release candidate release, cut from main branch
   - Not supported
 - **STABLE:** X.Y.0 (Branch: main)
-  - Stable release, cut from master when X.Y milestone is complete
+  - Stable release, cut from main when X.Y milestone is complete
   - X.Y release branch cut for subsequent patch releases
   - Supported as per the supported releases process defined below
 
@@ -48,7 +48,7 @@ The ORAS CLI and ORAS-go project reached a stable version. Other sub-projects in
 
 - Patch Releases X.Y.Z, Z > 0 (Branch: release-X.Y, only cut when a patch is needed)
   - No breaking changes
-  - Applicable fixes, including security fixes, may be cherry-picked from master into the latest supported minor release-X.Y branches.
+  - Applicable fixes, including security fixes, may be cherry-picked from main into the latest supported minor release-X.Y branches.
   - Patch release, cut from a release-X.Y branch
 
 ## Supported Releases
