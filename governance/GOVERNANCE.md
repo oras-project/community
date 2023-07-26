@@ -76,6 +76,10 @@ New ORAS owners participate in an onboarding period during which they fulfill al
 
 The onboarding period is intended to ensure that the to-be-appointed owner is able/willing to take on the time requirements, familiar with ORAS core logic and concepts, understands the overall system architecture and interactions that comprise it, and is able to work well with both the existing owners and the community.
 
+## Working Groups
+
+Working Groups are organizations responsible for the design and implementation of large architectural aspects of the overall ORAS project. See [WORKING-GROUPS](./WORKING-GROUPS.md) for details.
+
 ## Decision Making at the ORAS org level
 
 When owners need to make decisions there are two ways decisions are made, unless described elsewhere.
@@ -100,7 +104,7 @@ This ORAS project has adopted the [CNCF Code of Conduct](https://github.com/cncf
 
 ## Attributions
 
-* This governance model we created using both the [SPIFFE](https://github.com/spiffe/spire/blob/main/MAINTAINERS.md) and [Helm](https://github.com/helm/community/blob/main/governance/governance.md) governance documents.
+This governance model we created using both the [SPIFFE](https://github.com/spiffe/spire/blob/main/MAINTAINERS.md) and [Helm](https://github.com/helm/community/blob/main/governance/governance.md) governance documents.
 
 ## DCO and Licenses
 
