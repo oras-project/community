@@ -9,3 +9,4 @@ Owners:
 Emeritus:
   - Avi Deitcher (@deitch)
   - Josh Dolitsky (@jdolitsky)
+  - Terry Howe (@TerryHowe)
