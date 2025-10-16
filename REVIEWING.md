@@ -5,7 +5,7 @@ This document covers who may review pull requests for this project, and provides
 
 ## The Reviewer Role
 
-Everyone is encouraged to review code, even if they are not officially reviewer. However, only pull requests approved by maintainers can be merged.
+Everyone is encouraged to review code, even if they are not officially reviewers. However, only pull requests approved by maintainers can be merged.
 
 
 ## Values
@@ -54,7 +54,7 @@ Below are a set of common questions that apply to all pull requests:
 - [ ] Is this PR targeting the correct branch?
 - [ ] Does the commit message provide an adequate description of the change?
 - [ ] Does the affected code have corresponding tests?
-- [ ] Are the changes well documented and recognizable by `godoc`?
+- [ ] Are the changes well documented?
 - [ ] Does this introduce breaking changes that would require an announcement or bumping the major version?
 - [ ] Has this PR passed the CI?
 
@@ -62,6 +62,6 @@ Below are a set of common questions that apply to all pull requests:
 
 Reviewers are encouraged to read the following articles for help with common reviewer tasks:
 
-* [The Art of Closing: How to closing an unfinished or rejected pull request](https://blog.jessfraz.com/post/the-art-of-closing/)
+* [The Art of Closing: How to close an unfinished or rejected pull request](https://blog.jessfraz.com/post/the-art-of-closing/)
 * [Kindness and Code Reviews: Improving the Way We Give Feedback](https://product.voxmedia.com/2018/8/21/17549400/kindness-and-code-reviews-improving-the-way-we-give-feedback)
-* [Code Review Guidelines for Humans: Examples of good and back feedback](https://phauer.com/2018/code-review-guidelines/#code-reviews-guidelines-for-the-reviewer)
+* [Code Review Guidelines for Humans: Examples of good and bad feedback](https://phauer.com/2018/code-review-guidelines/#code-reviews-guidelines-for-the-reviewer)
