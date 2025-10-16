@@ -10,7 +10,7 @@ The ORAS project consists of several repositories known as sub-projects that ena
 
 There are two types of owners in the ORAS project organized hierarchically. ORAS [org owners][oras-project-owners] oversee the overall project and its health. Subproject owners focus on a single repository, a group of related repositories, a service (e.g., a website), or subproject to support the other subprojects (e.g., marketing or community management). 
 
-Changes in Oras Org owners have to be announced via an [oras-project/community/issues][oras-issues-new]. Changes to sub-project owners are to be announced via the appropriate sub-project issue.
+Changes in ORAS Org owners have to be announced via an [oras-project/community/issues][oras-issues-new]. Changes to sub-project owners are to be announced via the appropriate sub-project issue.
 
 ### Owner Responsibility
 
@@ -41,7 +41,7 @@ Changes to org owners use the following:
 - Any subproject owner is eligible for a position as an org owner
 - No one company or organization can employ a simple majority of the org owners
 - An org owner may step down by submitting an [issue][oras-issues-new] stating their intent and they will be moved to emeritus.
-- Org owners MUST remain active on the project. If they are unresponsive for > 6 months they will lose org ownership unless a [super-majority][super-majority] of the other org owners agrees to extend the period to be greater than 6 months
+- Org owners MUST remain active on the project. Owners who are unresponsive for more than 6 months will automatically transition to emeritus status unless a [super-majority][super-majority] of the other org owners votes to extend the inactivity grace period
 - When there is an opening for a new org owner, any current owners may nominate a suitable subproject owners as a replacement
   - Nominations for new owners must be made by creating an [issue][oras-issues-new].
 - When nominated individual(s) agrees to be a candidate for ownership, the subproject owners may vote
@@ -59,14 +59,14 @@ The Org Owners will select a chair to set agendas and call meetings of the Org O
 
 Subproject owners are responsible for activities surrounding the development and release of content (eg. code, specifications, documentation) or the tasks needed to execute their subproject (e.g., community management) within the designated repository, or repositories associated with the subproject (e.g., community management). Technical decisions for code resides with the subproject owners unless there is a decision related to cross owners groups that cannot be resolved by those groups. Those cases can be escalated to the org owners.
 
-Subproject owners many be responsible for one or many repositories.
+Subproject owners may be responsible for one or many repositories.
 
 Subproject owners do not need to be software developers. No explicit role is placed upon them and they can be anyone appropriate for the work being produced. For example, if a repository is for documentation it would be appropriate for owners to be technical writers.
 
 Changes to owners use the following:
 
 - A subproject owner may step down by submitting an [issue][oras-issues-new] stating their intent and they will be moved to emeritus.
-- Owners MUST remain active. If they are unresponsive for > 6 months they will be automatically removed unless a [super-majority][super-majority] of the other subproject owners agrees to extend the period to be greater than 6 months
+- Owners MUST remain active. Owners who are unresponsive for more than 6 months will automatically transition to emeritus status unless a [super-majority][super-majority] of the other subproject owners votes to extend the inactivity grace period
 - New owners can be added to a subproject by a [super-majority][super-majority] vote of the existing owners
 - When a subproject has no owners the ORAS org owners become responsible for it and may archive the subproject or find new owners
 
@@ -86,11 +86,11 @@ When owners need to make decisions there are two ways decisions are made, unless
 
 The default decision making process is [lazy-consensus][lazy-consensus]. This means that any decision is considered supported by the team making it as long as no one objects. Silence on any consensus decision is implicit agreement and equivalent to explicit agreement. Explicit agreement may be stated at will.
 
-When a consensus cannot be found a owner can call for a [majority][majority] vote on a decision.
+When a consensus cannot be found an owner can call for a [majority][majority] vote on a decision.
 
 Many of the day-to-day project maintenance can be done by a lazy consensus model. But the following items must be called to vote:
 
-- Removing a owner for any reason other than inactivity (super majority)
+- Removing an owner for any reason other than inactivity (super majority)
 - Changing the governance rules (this document) (super majority)
 - Licensing and intellectual property changes (including new logos, wordmarks) (simple majority)
 - Adding, archiving, or removing subprojects (simple majority)
