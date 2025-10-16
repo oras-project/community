@@ -117,4 +117,4 @@ The following licenses and contributor agreements will be used for ORAS projects
 [lazy-consensus]:       http://communitymgt.wikia.com/wiki/Lazy_consensus
 [majority]:             https://en.wikipedia.org/wiki/Majority
 [oras-issues-new]:      https://github.com/oras-project/community/issues/new
-[super-majority]:       https://en.wikipedia.org/wiki/Supermajority#Two-thirds_vote
+[super-majority]:       https://en.wikipedia.org/wiki/Supermajority#Two-thirds
