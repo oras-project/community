@@ -2,6 +2,17 @@
 
 Please follow the [security policy](https://oras.land/docs/community/reporting_security_concerns) to report a security vulnerability or concern.
 
+## Security Mailing List
+
+The ORAS project maintains a security mailing list at https://lists.cncf.io/g/cncf-oras-security for security-related discussions. This mailing list is intended for:
+
+* Coordination among security team members when handling vulnerability reports
+* Discussion of security best practices and improvements to ORAS security posture
+* Private communication regarding security concerns that are not yet ready for public disclosure
+* Coordination of security patches and disclosure timelines
+
+To report a vulnerability via email, send to: [cncf-oras-security@lists.cncf.io](mailto:cncf-oras-security@lists.cncf.io)
+
 ## Security Team
 
 The security team is made up of a subset of the ORAS project maintainers who are willing and able to respond to vulnerability reports.
