@@ -35,6 +35,6 @@ When a vulnerability comes in and is acknowledged, a team - including maintainer
 
 ## Disclosures
 
-Vulnerability disclosures are published as blog posts on the [ORAS Blog](https://oras.land/blog/). The disclosures will contain an overview, details about the vulnerability, a fix for the vulnerability that will typically be an update, and optionally a workaround if one is available.
+Vulnerability disclosures are published on the security advisory in each repository. The disclosures will contain an overview, details about the vulnerability, a fix for the vulnerability that will typically be an update, and optionally a workaround if one is available.
 
 Disclosures will be published on the same day as a release fixing the vulnerability after the release is published.
