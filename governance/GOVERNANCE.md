@@ -65,9 +65,10 @@ Subproject owners do not need to be software developers. No explicit role is pla
 
 Changes to owners use the following:
 
-- A subproject owner may step down by submitting an [issue][oras-issues-new] stating their intent and they will be moved to emeritus.
+- A subproject owner may step down by submitting an [issue][oras-issues-new] or pull request stating their intent and they will be moved to emeritus.
 - Owners MUST remain active. Owners who are unresponsive for more than 6 months will automatically transition to emeritus status unless a [super-majority][super-majority] of the other subproject owners votes to extend the inactivity grace period
 - New owners can be added to a subproject by a [super-majority][super-majority] vote of the existing owners
+- An active contributor can self-nominate to be a subproject owner by creating a pull request. The nomination can be approved by a [super-majority][super-majority] vote of the existing owners.
 - When a subproject has no owners the ORAS org owners become responsible for it and may archive the subproject or find new owners
 
 ### Onboarding a New Owner
